@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_basic_theory.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_homescreen.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_luyenthi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_lythuyet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_score.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_screen_slide.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_test_done.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_update_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/alert_dialog_save_score.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/check_answer_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/edit_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/fragment_screen_slide_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/history_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/item_gridview_list_answer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/item_list_score.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/login_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/register_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/success_update_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/toolbar_title_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanhv2/app/src/main/res/layout/activity_score.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanhv2/app/src/main/res/layout/alert_dialog_save_score.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanhv2/app/src/main/res/layout/history_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mobile-duyanhv2/app/src/main/res/layout/item_list_score.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/drawable/round_green.xml" value="0.1755" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/drawable/round_red.xml" value="0.1755" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/drawable/shape_button_pink10.xml" value="0.1755" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_basic_theory.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_fragment.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_homescreen.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_luyenthi.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_lythuyet.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_score.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_screen_slide.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_test_done.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/activity_update_password.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/alert_dialog_save_score.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/check_answer_dialog.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/edit_info.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/fragment_screen_slide_page.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/history_test.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/item_gridview_list_answer.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/item_list_score.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/login_activity.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/register_activity.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/success_update_dialog.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/app/src/main/res/layout/toolbar_title_layout.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/mobile-duyanh/app/src/main/res/layout/activity_homescreen.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/mobile-duyanh/app/src/main/res/layout/activity_update_password.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/mobile-duyanh/app/src/main/res/layout/edit_info.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/mobile-duyanh/app/src/main/res/layout/login_activity.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/AndroidStudioProjects/mobile-duyanh/mobile-duyanh/app/src/main/res/layout/register_activity.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/Downloads/Compressed/mobile-duyanh/mobile-duyanh/app/src/main/res/drawable/custom_input.xml" value="0.1755" />
+        <entry key="..\:/Users/Vincenzo/Downloads/Compressed/mobile-duyanh/mobile-duyanh/app/src/main/res/layout/activity_basic_theory.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/Downloads/Compressed/mobile-duyanh/mobile-duyanh/app/src/main/res/layout/activity_lythuyet.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/Vincenzo/Downloads/Compressed/mobile-duyanh/mobile-duyanh/app/src/main/res/layout/activity_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/Downloads/Compressed/mobile-duyanh/mobile-duyanh/app/src/main/res/layout/history_test.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/Downloads/Compressed/mobile-duyanh/mobile-duyanh/app/src/main/res/layout/login_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Vincenzo/Downloads/Compressed/mobile-duyanh/mobile-duyanh/app/src/main/res/layout/register_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Vincenzo/Downloads/mobileganfinal/mobile-duyanhv2/app/src/main/res/drawable/round_red.xml" value="0.188" />
+        <entry key="..\:/Users/Vincenzo/Downloads/mobileganfinal/mobile-duyanhv2/app/src/main/res/layout/activity_luyenthi.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/Downloads/mobileganfinal/mobile-duyanhv2/app/src/main/res/layout/activity_score.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/Downloads/mobileganfinal/mobile-duyanhv2/app/src/main/res/layout/activity_test_done.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/Downloads/mobileganfinal/mobile-duyanhv2/app/src/main/res/layout/alert_dialog_save_score.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/Downloads/mobileganfinal/mobile-duyanhv2/app/src/main/res/layout/history_test.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Vincenzo/Downloads/mobileganfinal/mobile-duyanhv2/app/src/main/res/layout/item_list_score.xml" value="0.21927083333333333" />
+        <entry key="..\:/hoctap/android/MADN2T16/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/hoctap/android/MADN2T16/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/hoctap/android/MADN2T16/app/src/main/res/layout/login_activity.xml" value="0.264" />
+        <entry key="..\:/hoctap/android/MADN2T16/app/src/main/res/layout/register_activity.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

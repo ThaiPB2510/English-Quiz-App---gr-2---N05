@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".register_activity"
+    android:gravity="top"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/english"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="ĐĂNG KÝ"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="#C16B8A"
+        android:layout_marginBottom="15dp"
+        />
+
+    <EditText
+        android:id="@+id/ettUsernameregister"
+        android:drawableStart="@drawable/ic_account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:hint=" Tên"
+        android:inputType="textPersonName"
+        android:textSize="20sp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:ems="20"/>
+
+    <EditText
+        android:id="@+id/etemail"
+        android:drawableStart="@drawable/ic_email_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint=" Email"
+        android:ems="20"
+        android:textSize="20sp"
+        android:inputType="textEmailAddress"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"/>
+
+    <EditText
+        android:id="@+id/etpPasswordregister"
+        android:drawableStart="@drawable/ic_lock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:ems="20"
+        android:hint=" Mật khẩu"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:inputType="textPassword"
+        android:textSize="20sp" />
+    <EditText
+        android:id="@+id/etpPasswordregisteragain"
+        android:drawableStart="@drawable/ic_lock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:ems="20"
+        android:hint=" Nhập lại mật khẩu"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:inputType="textPassword"
+        android:textSize="20sp"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btndangky"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="ĐĂNG KÝ"
+        android:textSize="20sp"
+        android:textColorHint="@color/white"
+        android:textStyle="bold"
+        android:background="#C16B8A"
+        android:layout_marginBottom="15dp"/>
+
+    <Button
+        android:id="@+id/btnquaylaidangky"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/white"
+        android:hint="QUAY LẠI"
+        android:textStyle="bold"
+        android:textColorHint="#C16B8A"
+        android:textSize="20sp" />
+
+</LinearLayout>
